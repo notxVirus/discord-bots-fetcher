@@ -1,5 +1,12 @@
 # Discord Bot Fetcher
 
+## ❗ Required libraries
+
+Run in cmd:
+```json
+pip install -r requirements.txt
+```
+
 ## 🔒 How to use
 
 - 1 Input all your Discord Accounts tokens in tokens.txt file
