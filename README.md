@@ -1,6 +1,6 @@
 # Discord Bot Fetcher
 
-## ❗ Required libraries
+## ❗ Required libraries installation
 Run in cmd:
 ```bash
 pip install -r requirements.txt
