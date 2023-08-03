@@ -3,7 +3,7 @@
 ## ❗ Required libraries
 
 Run in cmd:
-```json
+```bash
 pip install -r requirements.txt
 ```
 
