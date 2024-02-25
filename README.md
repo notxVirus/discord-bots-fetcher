@@ -1,4 +1,4 @@
-# Discord Bot Fetcher
+# [ PATCHED ] Discord Bot Fetcher
 
 ## ❗ Required libraries installation
 Run in cmd:
