@@ -13,3 +13,5 @@ pip install -r requirements.txt
 ## 🦈 Information
 All fetched Discord Bots tokens will be saved in botTokens.txt file.
 All Discord Bots will be public, with all intents and without the OAuth2 code grant requirement.
+
+![Example Image](https://i.ibb.co/xCHM4r6/example.webp)
